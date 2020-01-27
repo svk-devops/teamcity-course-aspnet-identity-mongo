@@ -157,3 +157,7 @@ $RECYCLE.BIN/
 /TestResult.xml
 /src/.vs/AspNet.Identity.MongoDB/v15/Server/sqlite3/db.lock
 /src/.vs/AspNet.Identity.MongoDB/v15/Server/sqlite3/storage.ide
+/src/.vs/AspNet.Identity.MongoDB/v16/Server/sqlite3/storage.ide
+/src/.vs/AspNet.Identity.MongoDB/v16/Server/sqlite3/storage.ide-shm
+/src/.vs/AspNet.Identity.MongoDB/v16/Server/sqlite3/storage.ide-wal
+/src/.vs/AspNet.Identity.MongoDB/v16/Server/sqlite3/db.lock
